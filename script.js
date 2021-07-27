@@ -1,5 +1,6 @@
 'use strict';
 
+alert("If you using this on mobile then please view it in either LANDSCAPE mode or in DESKTOP VIEW");  
 // Selecting elements
 const player0El = document.querySelector('.player--0');
 const player1El = document.querySelector('.player--1');
